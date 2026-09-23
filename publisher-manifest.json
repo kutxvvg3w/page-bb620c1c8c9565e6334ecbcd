@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b6fd1b11a473249c1ca41d86",
+  "owner": "kutxvvg3w",
+  "repo": "page-bb620c1c8c9565e6334ecbcd",
+  "title": "酷连网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "bb620c1c8c9565e6334ecbcd",
+      "a": "酷连网络",
+      "b": "2027最新官网",
+      "entity": "酷连网络",
+      "brand": "酷连网络",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d76c8e6ed9882f846b163f17bd7faab5e56b4fea2e2541cd0e2f09f1ee8ae622",
+      "content": {
+        "primary_entity": "酷连网络",
+        "keyword1": "酷连网络",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，订阅配置方式在对应文档中查看。",
+          "AI_CLIENTS_TITLE": "多设备客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选好套餐，即可开始配置订阅。",
+          "AI_CLOSING_TITLE": "选对套餐轻松连接",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，覆盖 3 台到 20 台设备同时在线，月付与年付两种周期。旗舰版含 IPLC 专线游戏加速优化，团队版支持企业定制路由，按设备数量和流量需求选择即可。",
+          "AI_FEATURES_INTRO": "从设备数量、流量消耗和订阅周期三个角度对比套餐，找到匹配日常使用的方案。",
+          "AI_FEATURES_TITLE": "套餐怎么选更合适",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版可 20 台设备同时在线，按家里或办公室设备数选择。",
+          "AI_FEATURE_TEXT_2": "每月流量从基础版 100GB 到团队版 1000GB 不等，看视频与打游戏消耗较多时优先考虑大流量档位。",
+          "AI_FEATURE_TEXT_3": "三档套餐均可按月或按年付费，年付价格分别是 ¥150、¥350 和 ¥850，长期使用按年付更划算。",
+          "AI_FEATURE_TITLE_1": "按设备数量",
+          "AI_FEATURE_TITLE_2": "按流量需求",
+          "AI_FEATURE_TITLE_3": "按订阅周期",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到客户端订阅配置的流程。",
+          "AI_GUIDE_TITLE": "配置订阅三步走",
+          "AI_HERO_INTRO": "酷连网络提供基础版、旗舰版和团队版三档海外加速订阅，分别支持 3 台、5 台和 20 台设备同时在线，月付年付灵活可选，按设备数量与流量消耗挑一档合适的即可。",
+          "AI_HERO_SUBTITLE": "多设备海外加速套餐可选",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月付年付两种周期灵活选",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线游戏加速",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月，年付分别 ¥150、¥350、¥850，按设备与流量需求对比挑选。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常同时在线的设备数量和每月流量消耗，从基础版、旗舰版或团队版中选一档订阅。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量与节点类型，确认自己的手机、电脑或办公设备能否覆盖。",
+          "AI_STEP_TEXT_3": "依照对应客户端的订阅导入文档完成配置，在设备上启用后即可使用所选线路。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "酷连网络海外加速",
+          "AI_FAQ_ANSWER_1": "基础版适合单人轻量使用，每月100GB流量、3台设备。如果经常看流媒体或玩游戏，可以选旗舰版，流量更多且支持IPLC专线优化。",
+          "AI_FAQ_ANSWER_2": "通常按客户端文档导入订阅地址或配置链接即可，不同系统步骤略有差异。遇到问题可参考对应客户端说明，或通过工单联系协助。",
+          "AI_FAQ_ANSWER_3": "可以。基础版支持3台设备，旗舰版5台，团队版20台。多设备同时在线使用同一订阅即可，无需额外重复购买。",
+          "AI_FAQ_ANSWER_4": "选择套餐后在对应页面完成支付，订阅信息会同步到账户。年付方案比月付更划算，例如基础版年付150元。",
+          "AI_FAQ_ANSWER_5": "建议根据月均流量、同时在线设备数和用途判断。团队或家庭多设备场景可选团队版，个人高带宽需求选旗舰版。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版怎么选？",
+          "AI_FAQ_QUESTION_2": "订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_3": "支持多台设备同时使用吗？",
+          "AI_FAQ_QUESTION_4": "如何付费和续费？",
+          "AI_FAQ_QUESTION_5": "不确定选哪个套餐怎么办？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kq10ea551denw.com",
+    "host": "xn--9kq10ea551denw.com"
+  },
+  "file_hashes": {
+    "index.html": "a063e82291a896182c9ee8941f463dbe79d446a4387e0b951ceeabbd4d71b216",
+    "sitemap.xml": "c739fe8576eb1673d449e49b9eb19cb12f735464f0c128bbadb1ec2a351b16ee",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1234e97e381d0a6cb0baf79affdccfd9f9f3db973998f732d16e66956ccef330",
+    "robots.txt": "723761dee579889b8c1c2267a6b988b6b06c0af185d2d1470e02cc6fb413f39a",
+    "9033069895d1d3a506b93e4e6297f8cb.txt": "216d10010c1c97dce9e5aab09fa65190395733fd53aed1ee3964b919238d712e"
+  },
+  "revision": "954dcd31d0b8c3a81a5301488a3a868eb3161b476bb8f527e08297d61e85095d"
+}
